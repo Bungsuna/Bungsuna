@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bungsuna
+- 👋 Hi, I’m @BungsunaSoembadi
 - 👀 I’m interested in phython programming
 - 🌱 I’m currently learning phython programming
 - 💞️ I’m looking to collaborate on me
